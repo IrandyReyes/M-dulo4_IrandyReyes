@@ -1,0 +1,15 @@
+﻿PRÁCTICA 2
+Sitio oficial de una panadería: "Le pain croissant bistrot”
+ 
+Página principal
+En la parte superior de esta página se deberá mostrar el nombre de la panadería, en la esquina superior izquierda debe de haber la opción de entrar a un menú (página 3) y en la esquina superior derecha se deben de mostrar las redes sociales de la panadería.
+La página tendrá las imágenes de los productos más recientes y solicitados de la panadería, así como de algunos anuncios importantes, pero cortos. Los anuncios tienen que tener un espacio prudente entre sí.
+
+Catálogo
+Al igual que en la página principal, en la parte superior de esta página se deberá mostrar el nombre de la panadería, en la esquina superior izquierda debe de haber la opción de entrar a un menú (página 3) y en la esquina superior derecha se deben de mostrar las redes sociales de la panadería.
+La hoja estará dividida por secciones, cada una de ellas será capaz de redireccionar al cliente en la opción que escoja. Las opciones deben de estar encabezadas con los diferentes tipos de productos que se ofrecen: pasteles, postres fríos, galletas, tartas, pan dulce, pan salado y café.
+
+Menú
+En la parte superior solo se mostrará el nombre de la panadería. Además, la tercera página deberá contener un menú que se despliegue verticalmente y centrado en toda la página. Su encabezado debe de llamarse "Menú" y debe de resaltar, las demás opciones irán con la misma tipografía y serán discretas.
+También llevará un fondo sólido, de un color que se vea elegante y discreto.
+Reyes Herrera Janeth Irandy
