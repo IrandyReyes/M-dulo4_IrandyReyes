@@ -1,0 +1,163 @@
+body{
+    background-color: #2C3E50;
+  }
+h1{
+    color: #FFFFFF;
+    font-family: "Poppins",Georgia,monospace;
+    src: url("../fonts/Poppins/Poppins-Bold.ttf");
+}
+#tit{
+    position: absolute;
+    left: 1%;
+    bottom: 90%;
+}
+#logo{
+    position: absolute;
+    left: 14%;
+    bottom: 92%;
+}
+#ini{
+    position: absolute;
+    left: 21%;
+    bottom: 93%;
+}
+#lupa{
+    position: absolute;
+    left: 34%;
+    bottom: 92.6%;
+}
+ #ini2, #ini3, #ini4, #ini5{
+    background: #34495E;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    border-color: #3498DB;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#ini2{
+    left: 41%;
+    bottom: 93%;
+}
+#ini3{
+    left: 55%;
+    bottom: 93%;
+}
+#ini4{
+    left: 72%;
+    bottom: 93%;
+}
+#ini5{
+    left: 88%;
+    bottom: 93%;
+}
+#ima{
+    position: absolute;
+    bottom: 50%;
+}
+#contactos, #nosotros{
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    color: #FFFFFF;
+    background-color: #34495E;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#contactos{
+    width: 500px;
+    height: 170px;
+    left: 60%;
+    bottom: 50%;
+    border: 3px solid #8344AD;
+}
+#nosotros{
+    width: 490px;
+    height: 245px;
+    left: 1%;
+    bottom: 4%;
+    border: 3px solid #4CAF50;
+}
+#cont1, #cont2, #cont3, #cont4{
+    background: #34495E;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    height: 25px;
+    width: 150px;
+    border-color: #8344AD;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#cont1{
+    left: 64%;
+    bottom: 69%;
+}
+#cont2{
+    left: 82%;
+    bottom: 69%;
+}
+#cont3{
+    left: 64%;
+    bottom: 60%;
+}
+#cont4{
+    left: 82%;
+    bottom: 60%;
+}
+#sincro{
+    background: #34495E;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    left: 60%;
+    bottom: 35%;
+    height: 50px;
+    width: 500px;
+    border-color: #FFFF00;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#pregunta{
+    background: #34495E;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    left: 60%;
+    bottom: 17%;
+    height: 50px;
+    width: 500px;
+    border-color: #FFFF00;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#info{
+    background: #34495E;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    left: 72%;
+    bottom: 5%;
+    height: 20px;
+    width: 200px;
+    border-color: #FF9800;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}

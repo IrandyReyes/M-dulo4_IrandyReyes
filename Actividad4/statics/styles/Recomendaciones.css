@@ -1,0 +1,180 @@
+body{
+    background-color: #2C3E50;
+  }
+h1{
+    color: #FFFFFF;
+    font-family: "Poppins",Georgia,monospace;
+    src: url("../fonts/Poppins/Poppins-Bold.ttf");
+}
+#tit{
+    position: absolute;
+    left: 1%;
+    bottom: 90%;
+}
+#logo{
+    position: absolute;
+    left: 14%;
+    bottom: 92%;
+}
+#ini{
+    position: absolute;
+    left: 21%;
+    bottom: 93%;
+}
+#lupa{
+    position: absolute;
+    left: 33%;
+    bottom: 92.6%;
+}
+ #ini2, #ini3, #ini4, #ini5{
+    background: #34495E;
+    color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    font-weight:900;
+    border-color: #3498DB;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#ini2{
+    left: 41%;
+    bottom: 93%;
+}
+#ini3{
+    left: 56%;
+    bottom: 93%;
+}
+#ini4{
+    left: 72%;
+    bottom: 93%;
+}
+#ini5{
+    left: 88%;
+    bottom: 93%;
+}
+#continuar, #simil, #top{
+    position: absolute;
+    font-weight:900;
+    color: #FFFFFF;
+    background-color: #34495E;
+    @font-face {
+        font-family: "Poppins",Georgia,monospace;
+        src: url("../fonts/Poppins/Poppins-Bold.ttf");
+    }
+}
+#continuar{
+    width: 1300px;
+    height: 132px;
+    left: 2%;
+    bottom: 60%;
+    border: 3px solid #8344AD;
+}
+#simil{
+    width: 1300px;
+    height: 132px;
+    left: 2%;
+    bottom: 32%;
+    border: 3px solid #00cc00;
+}
+#top{
+    width: 1300px;
+    height: 132px;
+    left: 2%;
+    bottom: 2%;
+    border: 3px solid #FFFF00;
+}
+#cuadro, #cuadro1, #cuadro2, #cuadro3, #cuadro4, #cuadro5, #i1, #i2, #i3{
+    position: absolute;
+    bottom: 65%;
+}
+#cuadro{
+    left: 4%;
+}
+#i1{
+    left: 14.5%;
+}
+#i2{
+    left: 24.5%;
+}
+#cuadro1{
+    left: 34.5%;
+}
+#i3{
+    left:44.5%;
+}
+#cuadro2{
+    left:54.5%;
+}
+#cuadro3{
+    left: 64.5%;
+}
+#cuadro4{
+    left: 74.5%;
+}
+#cuadro5{
+    left: 84.5%;
+}
+#cuadro6, #cuadro7, #cuadro8, #cuadro9, #i4, #i5, #i6, #cuadro10, #cuadro11{
+    position: absolute;
+    bottom: 37%;
+}
+#cuadro6{
+    left: 4%;
+}
+#cuadro7{
+    left: 14.5%;
+}
+#cuadro8{
+    left: 24.5%;
+}
+#i4{
+    left: 34.5%;
+}
+#i5{
+    left:44.5%;
+}
+#i6{
+    left:54.5%;
+}
+#cuadro9{
+    left: 64.5%;
+}
+#cuadro10{
+    left: 74.5%;
+}
+#cuadro11{
+    left: 84.5%;
+}
+#i7, #i8, #i9, #i10, #i11, #i12, #i13, #i14, #i15{
+    position: absolute;
+    bottom: 7%;
+}
+#i7{
+    left: 4%;
+}
+#i8{
+    left: 14.5%;
+}
+#i9{
+    left: 24.5%;
+}
+#i10{
+    left: 34.5%;
+}
+#i11{
+    left:44.5%;
+}
+#i12{
+    left:54.5%;
+}
+#i13{
+    left: 64.5%;
+}
+#i14{
+    left: 74.5%;
+}
+#i15{
+    left: 84.5%;
+}
